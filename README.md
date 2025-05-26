@@ -87,7 +87,7 @@ String pass = "YOUR_PASSWORD_HERE";
 * Add pagination and filtering for large datasets
 * Unit testing using JUnit
 
-```
+---
 
 ## 🙌 Author
 
