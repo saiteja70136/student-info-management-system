@@ -39,11 +39,11 @@ CREATE TABLE studentinfo (
   sclass INT,
   marks INT
 );
-
+```
 3. Update the DB credentials in the code:
 ```java
 String url = "jdbc:mysql://localhost:3306/studentdetails";
 String user = "root";
 String pass = "YOUR_PASSWORD_HERE";
-
+```
 
