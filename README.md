@@ -28,3 +28,15 @@ A command-line based Student Record Management System built using **Java** and *
 ## ⚙️ Database Setup
 
 1. Install MySQL and create a database named:
+
+2. Create a table inside that DB:
+```sql
+CREATE TABLE studentinfo (
+  rollno INT PRIMARY KEY,
+  sname VARCHAR(100),
+  sphone VARCHAR(15),
+  sage INT,
+  sclass INT,
+  marks INT
+);
+
